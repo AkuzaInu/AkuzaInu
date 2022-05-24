@@ -1,5 +1,6 @@
 # Heya 👋
-I'm Koen, also known as AkuzaInu. 
+I'm Koen, also known as AkuzaInu.
+
 I'm a hobby coder and I love to make Discord bots and python scripts.
 
 ## 🔖 My Statistics
